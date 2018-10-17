@@ -11,10 +11,11 @@ div#board {
 }
 
 div#messageArea {
-	position: absolute;
+	position: 0,0;
 	top: 0px;
 	left: 0px
 	color: rgb(83, 175, 19);
+	color: white;
 }
 
 table {
